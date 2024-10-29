@@ -1,0 +1,20 @@
+{
+    "/scripts/manifest.js": "/scripts/manifest.js?id=f74737e9494ba732dad1",
+    "/blocks/base/script.js": "/blocks/base/script.js?id=9eb32d4b1463a8590850",
+    "/blocks/base/style.css": "/blocks/base/style.css?id=9263c3270cf44a5085c0",
+    "/blocks/copyright/style.css": "/blocks/copyright/style.css?id=e12f6d84c56155052679",
+    "/blocks/notice/style.css": "/blocks/notice/style.css?id=37e61b28dc03894e744b",
+    "/blocks/notice/style.editor.css": "/blocks/notice/style.editor.css?id=d41d8cd98f00b204e980",
+    "/blocks/spacer/style.css": "/blocks/spacer/style.css?id=a9e2e26a874e1efe6883",
+    "/blocks/spacer/style.editor.css": "/blocks/spacer/style.editor.css?id=1b9048c6fd7f473af37f",
+    "/styles/admin.css": "/styles/admin.css?id=d41d8cd98f00b204e980",
+    "/styles/front.css": "/styles/front.css?id=0e44161ad66ef3090d38",
+    "/blocks/copyright/script.js": "/blocks/copyright/script.js?id=eb9ba85acc3b416708df",
+    "/blocks/copyright/script.editor.js": "/blocks/copyright/script.editor.js?id=79252be18b71d0fbc611",
+    "/blocks/notice/script.js": "/blocks/notice/script.js?id=359ea92a84860671fd51",
+    "/blocks/notice/script.editor.js": "/blocks/notice/script.editor.js?id=3a4d61e5617488e68bb0",
+    "/blocks/spacer/script.js": "/blocks/spacer/script.js?id=d0bd418b1075f3a0ae68",
+    "/blocks/spacer/script.editor.js": "/blocks/spacer/script.editor.js?id=73559276d1b384264fee",
+    "/scripts/admin.js": "/scripts/admin.js?id=5204e9860104a451a8db",
+    "/scripts/front.js": "/scripts/front.js?id=f4e48057e59192ee4af1"
+}
